@@ -19,3 +19,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/invites/contact/?i=1qea6va5zclzw&utm_content=5xy3ci)
 [![Twitter URL](https://img.shields.io/badge/Twitter-Connect-000?style=for-the-badge&labelColor=black&logo=twitter)](https://x.com/Fe_nananda?t=L0Kn4vvn_3TnGCDVxQhGyg&s=08)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandagvieira&theme=great-gatsby=true)

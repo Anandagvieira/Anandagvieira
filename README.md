@@ -20,3 +20,10 @@
 [![Twitter URL](https://img.shields.io/badge/Twitter-Connect-000?style=for-the-badge&labelColor=black&logo=twitter)](https://x.com/Fe_nananda?t=L0Kn4vvn_3TnGCDVxQhGyg&s=08)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandagvieira&theme=great-gatsby&show_icons=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anandagvieira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anandagvieira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Anandagvieira/dio-lab-open-source
+)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anandagvieira&repo=programaria-back-end&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Anandagvieira/projetobackend
+)

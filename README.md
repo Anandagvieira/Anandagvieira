@@ -16,6 +16,8 @@
 ### Connect with me
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge)](https://www.dio.me/users/fgfernan)
+[![Perfil Alura](https://img.shields.io/badge/-Meu%20Perfil%20na%20ALURA-000000?style=for-the-badge)](https://cursos.alura.com.br/user/fgfernan)
+[![Perfil Empowerdata](https://img.shields.io/badge/-Meu%20Perfil%20na%20EMPOWERDATA-000000?style=for-the-badge)](https://alunos.empowerdata.com.br/profiles/32379289)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:aaraujo.nananda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFF00&color:FFF)](https://www.linkedin.com/in/fernanda-03711963/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFF00&color:FFF)](https://www.instagram.com/invites/contact/?i=1qea6va5zclzw&utm_content=5xy3ci)

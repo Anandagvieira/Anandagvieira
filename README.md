@@ -7,7 +7,7 @@
 
 - 👋 Olá, eu sou @Anandagvieira
 - 👀 Aqui é um lugar de experiências únicas, onde divulgo meus trabalhos.
-- 🌱 Estou estudando front end, back end e me atualizando no inglês.
+- 🌱 Sou acadêmica da faculdade IBMR, cursando tecnólogo em Big Data e Inteligência Analítica .
 - 💞️ Estou disposta á colaborar com projetos, só me chamar aqui!
 - 📫 Você pode me contactar pelo email aaraujo.nananda@gmail.com    
 - 😄 ela/dela;
